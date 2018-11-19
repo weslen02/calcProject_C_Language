@@ -1,0 +1,21 @@
+# Created by https://www.gitignore.io/api/codeblocks
+# Edit at https://www.gitignore.io/?templates=codeblocks
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+*.cbp
+
+
+#ignore my binary folders
+
+bin/
+obj/
+
+#special file
+errorMasterMenuHandler.c
+main.c
+*.h
+
+# End of https://www.gitignore.io/api/codeblocks
