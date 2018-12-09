@@ -10,8 +10,7 @@
 
 #ignore my binary folders
 
-bin/
-obj/
-
+*/bin
+*/obj
 
 # End of https://www.gitignore.io/api/codeblocks
