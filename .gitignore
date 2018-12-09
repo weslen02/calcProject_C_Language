@@ -10,12 +10,7 @@
 
 #ignore my binary folders
 
-bin/
-obj/
-
-#special file
-errorMasterMenuHandler.c
-main.c
-*.h
+*/bin
+*/obj
 
 # End of https://www.gitignore.io/api/codeblocks
