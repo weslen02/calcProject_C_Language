@@ -13,9 +13,5 @@
 bin/
 obj/
 
-#special file
-errorMasterMenuHandler.c
-main.c
-*.h
 
 # End of https://www.gitignore.io/api/codeblocks
